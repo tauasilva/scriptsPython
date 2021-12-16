@@ -13,7 +13,7 @@ class MinhaClasse():
         pass
 
 
-def main():
+def main(): 
     # comentários que usam mais de uma linha, devem ser limitados a 72
     # caracteres por linha
     instancia = MinhaClasse()
